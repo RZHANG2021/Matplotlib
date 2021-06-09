@@ -37,5 +37,5 @@ Observations:
 - Among four chosen drug regimens, the data regarding tumor size and Weight of the mouse are normally distributed. Only exception is drug 
   Infubinol, which shows 1 outlier based on the analysis.
 - Sample study on the mouse y793 under the drug Capomulin shows steady reduce on the tumor size over the course of 45 days .
-  The tumor size and body weight appear to have strong positive correlation. 
+- The tumor size and body weight appear to have strong positive correlation. 
 
