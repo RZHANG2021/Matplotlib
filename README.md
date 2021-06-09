@@ -30,8 +30,8 @@ Process of the analysis:
 - Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.   Plot the linear regression model on top of the previous scatter plot.
 
 Observations:
-- Among all the tested drug regimens, Capomulin and Ramicane recorded most of the timepoint counts. Capomuli has 230 counts of timepoint   
-  recorded, Ramicane has 178 counts of timepoint recorded.
+- Among all the tested drug regimens, Capomulin and Ramicane recorded most of the timepoint counts. 
+  Capomuli has 230 counts of timepoint recorded, Ramicane has 178 counts of timepoint recorded.
 - The sex distribution among all of mice tested in the study is evenly distributed, female and male distribution percentage is 49.6% and  
   50.4% correspondingly. 
 - Among four chosen drug regimens, the data regarding tumor size and Weight of the mouse are normally distributed. Only exception is drug 
